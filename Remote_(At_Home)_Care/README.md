@@ -13,7 +13,7 @@ Here are some things to think about as you come up with solutions for this probl
 ## Potential Solutions
 |Solution Description|Resources Needed|
 |:---|:---|
-|A mobile or web app that tracks patient movements during remote sessions|<ul><li> Smartphone or laptop camera <li> Flask (backend web framework) or React Native / Flutter (mobile app development) <li> Frontend framework (React, Vue, HTML/CSS/JS, or Figma) <li> OpenCV or MediaPipe (body tracking libraries)</ul>|
+|A mobile or web app that tracks patient movements during remote sessions|<ul><li> Camera (smartphone or laptop) <li> Backend web (Flask) or Mobile app (React Native / Flutter) <li> Frontend framework (React, Vue, HTML/CSS/JS, or Figma) <li> OpenCV or MediaPipe (body tracking libraries)</ul>|
 |An AI instructor that gives personalized feedback on form and technique|<ul><li> Machine learning model (pose estimation + classification) <li> Training data (exercise movement datasets) <li> Python with PyTorch/TensorFlow <li> Motion capture hardware (optional: camera, accelerometer, IMU sensors)</ul>|
 |A centralized online platform for live-streamed or pre-recorded exercise sessions|<ul><li> Website framework (Next.js, React, Vue, or Figma) <li> Backend framework (Flask, Django, or Node.js) <li> Video hosting or streaming services</ul>
 
